@@ -74,7 +74,7 @@
 
 ## 📚 Keyword Definitions
 ### firewall - security tool, hardware or software used to filter network traffic by stopping unauthorized incoming or outgoing traffic
-<a name="firewall"></a>
+<a name="firewall-definition"></a>
 
 ### IPS - a device or app that detects and stops intrusions attempts proactively
 <a name="ips"></a>
